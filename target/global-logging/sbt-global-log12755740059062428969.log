@@ -1,0 +1,7 @@
+[debug] > Exec(GatlingIt/testOnly vc.Debug, None, None)
+[debug] Evaluating tasks: Gatling-it / testOnly
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] Passed: Total 0, Failed 0, Errors 0, Passed 0
+[info] No tests to run for Gatling-it / testOnly
+[success] Total time: 0 s, completed 10 июл. 2025 г., 20:50:57
+[debug] > Exec(idea-shell, None, None)

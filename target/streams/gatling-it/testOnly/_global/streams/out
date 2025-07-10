@@ -1,0 +1,4 @@
+[debug] javaOptions: Vector(-Dseparate.prod.test.sources.enabled=false, -Dsbt.supershell=false, -Dsbt.ipcsocket.tmpdir=C:\Users\AMORAL~1\AppData\Local\Temp\.sbtee3303ef\ipcsocket, -Dswoval.tmpdir=C:\Users\AMORAL~1\AppData\Local\Temp\.sbtee3303ef\swoval, -Djna.nosys=true, -Dsbt.log.noformat=true, -Dlog4j.ignoreTCL=true, -Djnidispatch.path=C:\Users\AMORAL~1\AppData\Local\Temp\jna-1821772177\jna17584482058738944338.dll, -Djna.loaded=true, -Dgrouping.with.qualified.names.enabled=true, -XX:+HeapDumpOnOutOfMemoryError, -XX:MaxInlineLevel=20, -XX:MaxTrivialSize=12, -Xmx1G, --add-opens=java.base/java.lang=ALL-UNNAMED, --add-opens=java.base/jdk.internal.misc=ALL-UNNAMED)
+[debug] Forking tests - parallelism = false
+[info] Passed: Total 0, Failed 0, Errors 0, Passed 0
+[info] No tests to run for Gatling-it / testOnly

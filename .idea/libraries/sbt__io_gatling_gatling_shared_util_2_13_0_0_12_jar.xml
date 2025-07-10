@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: io.gatling:gatling-shared-util_2.13:0.0.12:jar" external-system-id="SBT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/io/gatling/gatling-shared-util_2.13/0.0.12/gatling-shared-util_2.13-0.0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/io/gatling/gatling-shared-util_2.13/0.0.12/gatling-shared-util_2.13-0.0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
